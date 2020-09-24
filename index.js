@@ -1,3 +1,3 @@
-function bruteForceTwoSum() {
+function bruteForceTwoSum(sum, a) {
   
 }
